@@ -1,0 +1,10 @@
+; could be used to comment lines
+; a path to a SQLite file should be started from the server's root without a slash
+;DB_TYPE=mysql
+DB_TYPE=sqlite
+DB_HOST=127.0.0.1
+DB_NAME=.db
+;DB_NAME=test
+DB_USER=root
+DB_PASSWORD=
+DEBUG=false

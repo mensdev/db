@@ -1,0 +1,13 @@
+.idea
+vendor
+cgi-bin
+composer.lock
+helpers.php
+class.js
+index.html
+ns1.php
+ns2.php
+send.php
+test.php
+composer.json
+.db
